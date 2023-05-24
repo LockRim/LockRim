@@ -26,8 +26,6 @@
 </td>
 </tr>
 </table>
-</td>
-</tr>
 
 <tr>
 <td colspan="2" align="center" border="0">
@@ -35,9 +33,7 @@
 ![LockRim](https://count.getloli.com/get/@LockRim?theme=moebooru)
 </td>
 </tr>
-    <tr>
-    <td colspan="2" align="center" border="0"></td>
-    </tr>
+
 <tr>
     <td>
 
