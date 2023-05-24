@@ -1,7 +1,9 @@
+# ♦️GuideBook For Me♦️
+
 <table width="100%"  style="margin-left: auto; margin-right: auto;">
     <tr>
         <td width="55%">
-        你好，这里是Lock_Rim的Github<br>一名大二学生，计算机科学与技术专业<br>
+        🎲上帝不掷骰子🎲<br>你好，这里是Lock_Rim的Github<br>一名大二生，计算机科学与技术专业🖥️<br>喜欢看书📖，看番📺<br><br>希望走游戏开发并正在学习
     	</td>
         <td width="45%">
             <table>
@@ -19,7 +21,7 @@
 </td>
 </tr>
 <tr>
-<td><strong>会但是不多:<br></strong>
+<td><strong>会,但不多:<br></strong>
 
 ![JAVA](https://img.shields.io/badge/-JAVA-5c8dbc?style=flat-square&logo=java&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-234b6a?style=flat-square&logo=Python&logoColor=ffffff) <br>
@@ -37,10 +39,10 @@
 <tr>
     <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=LockRim&show_icons=true&title_color=blue&icon_color=ac4ef7f&text_color=blue&bg_color=FFFFE0,FFFFE0,00FFFF)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=LockRim&show_icons=true&title_color=blue&icon_color=ac4ef7f&text_color=blue)](https://github.com/anuraghazra/github-readme-stats) 
     </td>
-	<td>
+<td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LockRim&layout=compact&exclude_repo=LyFive.github.io&title_color=blue&icon_color=bb2acf&text_color=blue&bg_color=FFFFE0,FFFFE0,00FFFF)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LockRim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</td>
 </tr>
