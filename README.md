@@ -28,33 +28,23 @@
 </table>
 </td>
 </tr>
+
 <tr>
 <td colspan="2" align="center" border="0">
 
 ![LockRim](https://count.getloli.com/get/@LockRim?theme=moebooru)
 </td>
-    </tr>
-    <tr>
-    <td colspan="2" align="center" border="0">
-</td>
 </tr>
-
-</table>
-<table>
     <tr>
-        <td>
+    <td colspan="2" align="center" border="0"></td>
+    </tr>
+<tr>
+    <td>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=LockRim&show_icons=true&title_color=blue&icon_color=ac4ef7f&text_color=blue&bg_color=FFFFE0,FFFFE0,00FFFF)](https://github.com/anuraghazra/github-readme-stats) 
-        </td>
-        <td>
+    </td>
+	<td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LockRim&layout=compact&exclude_repo=LyFive.github.io&title_color=blue&icon_color=bb2acf&text_color=blue&bg_color=FFFFE0,FFFFE0,00FFFF)](https://github.com/anuraghazra/github-readme-stats)
-        </td>
-    </tr>
-
-</table>
-
-
-
-
-
+    </td>
+</tr>
