@@ -3,7 +3,7 @@
 <table width="100%"  style="margin-left: auto; margin-right: auto;">
     <tr>
         <td width="55%">
-        🎲上帝不掷骰子🎲<br>你好，这里是Lock_Rim的Github<br>一名大二生，计算机科学与技术专业🖥️<br>喜欢看书📖，看番📺<br><br>希望走游戏开发并正在学习
+        🎲上帝不掷骰子🎲<br>你好，这里是Lock_Rim的Github<br>计算机科学与技术专业🖥️<br>喜欢看书📖，看番📺<br><br>希望走游戏开发并正在学习
     	</td>
         <td width="45%">
             <table>
